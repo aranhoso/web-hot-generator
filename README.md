@@ -1,27 +1,52 @@
-# WebHotGenerator
+#  Hot Wheels Generator
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0.
+Um gerador de carros Hot Wheels usando inteligência artificial por meio de rede neural para criar modelos únicos.
 
-## Development server
+## Sobre o Projeto
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Este é um projeto que combina a nostalgia dos Hot Wheels com tecnologia moderna. Utilizando inteligência artificial, nosso gerador cria conceitos únicos de carros Hot Wheels, incluindo:
 
-## Code scaffolding
+- Design do carro
+- Descrição detalhada
+- Nome e série do carro
+- Ano de lançamento
+- Esquema de cores
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Como Executar
 
-## Build
+1. **Preparando o Ambiente**
+   ```bash
+   npm install
+   ```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+2. **Iniciando o Projeto**
+   ```bash
+   ng serve
+   ```
+   Acesse `http://localhost:4200/` no seu navegador.
 
-## Running unit tests
+## Tecnologias Utilizadas
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Angular 17
+- TypeScript
+- API de Geração de Imagens com IA
+- HTML5 & CSS3
 
-## Running end-to-end tests
+## Funcionalidades
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- Geração de designs únicos de Hot Wheels
+- Interface intuitiva e responsiva
+- Visualização em tempo real dos resultados
+- Detalhes completos do carro gerado
 
-## Further help
+## Licença
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+
+## Suporte
+
+Se você encontrar algum problema ou tiver sugestões, por favor abra uma issue no repositório do projeto.
+
+## Autor
+
+Criado por [@aranhoso](https://github.com/aranhoso)

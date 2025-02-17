@@ -29,7 +29,7 @@ Este é um projeto que combina a nostalgia dos Hot Wheels com tecnologia moderna
 
 - Angular 17
 - TypeScript
-- API de Geração de Imagens com IA
+- API de Geração de Imagens com IA (Google Imagem3)
 - HTML5 & CSS3
 
 ## Funcionalidades
